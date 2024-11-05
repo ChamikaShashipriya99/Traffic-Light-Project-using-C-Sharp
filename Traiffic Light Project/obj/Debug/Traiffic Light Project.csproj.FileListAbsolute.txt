@@ -1,0 +1,32 @@
+C:\Users\HP\source\repos\Traiffic Light Project\Traiffic Light Project\bin\Debug\Traiffic Light Project.exe.config
+C:\Users\HP\source\repos\Traiffic Light Project\Traiffic Light Project\bin\Debug\Traiffic Light Project.exe
+C:\Users\HP\source\repos\Traiffic Light Project\Traiffic Light Project\bin\Debug\Traiffic Light Project.pdb
+C:\Users\HP\source\repos\Traiffic Light Project\Traiffic Light Project\obj\Debug\Traiffic Light Project.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Traiffic Light Project\Traiffic Light Project\obj\Debug\Traiffic_Light_Project.TrafficLight.resources
+C:\Users\HP\source\repos\Traiffic Light Project\Traiffic Light Project\obj\Debug\Traiffic_Light_Project.Properties.Resources.resources
+C:\Users\HP\source\repos\Traiffic Light Project\Traiffic Light Project\obj\Debug\Traiffic Light Project.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Traiffic Light Project\Traiffic Light Project\obj\Debug\Traiffic Light Project.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Traiffic Light Project\Traiffic Light Project\obj\Debug\Traiffic Light Project.exe
+C:\Users\HP\source\repos\Traiffic Light Project\Traiffic Light Project\obj\Debug\Traiffic Light Project.pdb
+F:\ATI\repos\Traiffic Light Project\Traiffic Light Project\bin\Debug\Traiffic Light Project.exe.config
+F:\ATI\repos\Traiffic Light Project\Traiffic Light Project\bin\Debug\Traiffic Light Project.exe
+F:\ATI\repos\Traiffic Light Project\Traiffic Light Project\bin\Debug\Traiffic Light Project.pdb
+F:\ATI\repos\Traiffic Light Project\Traiffic Light Project\obj\Debug\Traiffic Light Project.csprojAssemblyReference.cache
+F:\ATI\repos\Traiffic Light Project\Traiffic Light Project\obj\Debug\Traiffic_Light_Project.TrafficLight.resources
+F:\ATI\repos\Traiffic Light Project\Traiffic Light Project\obj\Debug\Traiffic_Light_Project.Properties.Resources.resources
+F:\ATI\repos\Traiffic Light Project\Traiffic Light Project\obj\Debug\Traiffic Light Project.csproj.GenerateResource.cache
+F:\ATI\repos\Traiffic Light Project\Traiffic Light Project\obj\Debug\Traiffic Light Project.csproj.CoreCompileInputs.cache
+F:\ATI\repos\Traiffic Light Project\Traiffic Light Project\obj\Debug\Traiffic Light Project.exe
+F:\ATI\repos\Traiffic Light Project\Traiffic Light Project\obj\Debug\Traiffic Light Project.pdb
+F:\ATI\repos\Traiffic Light Project\Traiffic Light Project\obj\Debug\Traiffic_Light_Project.SpalshScreen.resources
+C:\Users\USER™\Desktop\ATI\repos\Traiffic Light Project\Traiffic Light Project\bin\Debug\Traiffic Light Project.exe.config
+C:\Users\USER™\Desktop\ATI\repos\Traiffic Light Project\Traiffic Light Project\bin\Debug\Traiffic Light Project.exe
+C:\Users\USER™\Desktop\ATI\repos\Traiffic Light Project\Traiffic Light Project\bin\Debug\Traiffic Light Project.pdb
+C:\Users\USER™\Desktop\ATI\repos\Traiffic Light Project\Traiffic Light Project\obj\Debug\Traiffic Light Project.csproj.AssemblyReference.cache
+C:\Users\USER™\Desktop\ATI\repos\Traiffic Light Project\Traiffic Light Project\obj\Debug\Traiffic Light Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER™\Desktop\ATI\repos\Traiffic Light Project\Traiffic Light Project\obj\Debug\Traiffic_Light_Project.TrafficLight.resources
+C:\Users\USER™\Desktop\ATI\repos\Traiffic Light Project\Traiffic Light Project\obj\Debug\Traiffic_Light_Project.Properties.Resources.resources
+C:\Users\USER™\Desktop\ATI\repos\Traiffic Light Project\Traiffic Light Project\obj\Debug\Traiffic Light Project.csproj.GenerateResource.cache
+C:\Users\USER™\Desktop\ATI\repos\Traiffic Light Project\Traiffic Light Project\obj\Debug\Traiffic Light Project.csproj.CoreCompileInputs.cache
+C:\Users\USER™\Desktop\ATI\repos\Traiffic Light Project\Traiffic Light Project\obj\Debug\Traiffic Light Project.exe
+C:\Users\USER™\Desktop\ATI\repos\Traiffic Light Project\Traiffic Light Project\obj\Debug\Traiffic Light Project.pdb
